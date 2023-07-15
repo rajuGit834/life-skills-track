@@ -49,7 +49,7 @@
 <li><p><strong>Commit Logs</strong>: Kafka&#39;s durable and distributed log structure makes it suitable for building commit logs. It ensures reliable data storage and replication, making it valuable for use cases like distributed databases, distributed systems, and distributed file systems.</p>
 </li>
 </ol>
-<h1 id="code-sample">Code Sample</h1>
+<h2 id="code-sample">Code Sample</h2>
 <pre><code class="language-java">import org.apache.kafka.clients.producer.*;
 import org.apache.kafka.clients.consumer.*;
 import org.apache.kafka.common.serialization.StringSerializer;
