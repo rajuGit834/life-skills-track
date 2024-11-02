@@ -157,4 +157,4 @@ public class SimpleConsumer {
 
 ## Summary
 
-Apache Kafka is a robust system for managing and moving large amounts of real-time data across applications, databases, and other systems. It’s ideal for high-speed data handling, data integration, and real-time analytics.
+Apache Kafka is a robust system for managing and moving large amounts of real-time data across applications, databases. It’s ideal for high-speed data handling, data integration, and real-time analytics.
