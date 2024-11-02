@@ -146,6 +146,15 @@ public class SimpleConsumer {
 - **Durability and Reliability**: Kafka keeps data for a defined period, even if it’s been read, allowing flexibility in data handling.
 - **Scalability**: Kafka can handle growing data sizes by adding more brokers and partitions.
 
+## References
+
+<p>For more information and detailed documentation on Apache Kafka, refer to the following references:</p>
+<ul>
+<li><a href="https://kafka.apache.org/quickstart">Kafka Tutorial by Tutorialspoint</a></li>
+<li><a href="https://docs.confluent.io/platform/current/overview.html">Confluent Kafka Documentation</a></li>
+<li><a href="https://kafka.apache.org/documentation/">Apache Kafka Documentation</a></li>
+</ul>
+
 ## Summary
 
 Apache Kafka is a robust system for managing and moving large amounts of real-time data across applications, databases, and other systems. It’s ideal for high-speed data handling, data integration, and real-time analytics.
